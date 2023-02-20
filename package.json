@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.2.0"
+  },
+  "dependencies": {
+    "@firebase/app-types": "^0.9.0",
+    "@picocss/pico": "^1.5.7",
+    "@vavt/md-editor-extension": "^1.5.0",
+    "firebase": "^9.17.1",
+    "firebase-admin": "^11.5.0",
+    "fuse.js": "^6.6.2",
+    "md-editor-v3": "^2.8.1",
+    "nuxt-vuefire": "^0.1.5",
+    "vuefire": "^3.0.1"
+  }
+}
